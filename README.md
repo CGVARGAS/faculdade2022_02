@@ -1,4 +1,8 @@
-# Manipulação de Dados em Arquivos
+# Manipulação de Dados em Arquivos com Python
+
+![piton]
+
+[piton]: piton.jpg 
 
 ---
 
@@ -25,5 +29,19 @@ _Ao utilizar desta função o Python criará um arquivo ".txt" na pasta atual._
 
 ---
 
+### Modos de acesso ao arquivo:
 
+_Ao abrirmos um arquivo precisamos informar ao Python qual modo de acesso, sendo assim, cada modo é representado por 
+uma "string"._
 
+| String | Função |
+|--------|--------|
+| 'w'    | write  |
+| 'r'    | read   |
+| 'a'    | append |    
+
+_Acima temos os modos principais, lembrando que o modo padrão é o de leitura ('r')!_ 
+
+_Segue link do site onde consta mais detalhes quanto aos modos utilizados:_
+
+[Modos da função open.](https://docs.python.org/3/library/functions.html#open)
