@@ -6,7 +6,7 @@
 
 _A primeira operação básica é **abrir arquivo**._
 
-_Para abrir um arquivo, o Python disponibiliza a função interna chamada open. Essa função está disponível globalmente, 
+_Para abrir um arquivo, o Python disponibiliza a função interna chamada "open". Essa função está disponível globalmente, 
 ou seja, não é preciso importá-la._
 
 _A função **open** retorna um objeto do tipo arquivo. Sua forma de utilização tem a seguinte sintaxe:_
