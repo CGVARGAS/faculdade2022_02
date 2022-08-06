@@ -130,3 +130,5 @@ A chamada seek(0) retorna o cursor para o início do arquivo.
 
 _O script8.py demonstra na prática a situação acima!_ 
 
+>_Todo conteúdo é retirado do Curso de Graduação de Análise e Desenvolvimento de Sistemas da Universidade Estácio de Sá._
+
