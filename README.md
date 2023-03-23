@@ -28,7 +28,7 @@ _Ao utilizar desta função o Python criará um arquivo ".txt" na pasta atual._
 >_A sintaxe **"as"** serve para criar um **"aliás"** para um módulo que tenha um nome muito grande, dando a opção de 
 > criar um nome mais significativo e de fácil memorização._    
 
-_Se houver a necessidade de impressão dos caminhos absolutos ou relativos veja o exemplo abaixo:_
+_Se houver a necessidade de impressão dos caminhos absolutos ou relativos veja os exemplos abaixo:_
 
 ```doctest
 import os
