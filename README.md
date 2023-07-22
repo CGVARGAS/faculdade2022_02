@@ -108,7 +108,7 @@ arquivo.close()
 
 >**Dica:**
 > 
->_1 — Quando precisamos abrir um arquivo muito grande, é inviável utilizar os métodos read e readlines, pois eles retornam
+>_1 — Quando precisamos abrir um arquivo muito grande é inviável utilizar os métodos read e readlines, pois eles retornam
 > todo o conteúdo do arquivo de uma só vez, seja na forma de 'string', seja na forma de lista. Isso pode consumir todos os
 > recursos do computador, travando seu programa._
 > 
